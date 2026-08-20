@@ -125,7 +125,7 @@ Engineered a non-blocking, multi-client IRC server conforming to RFC standards, 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Hannzo01&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000&title_color=D8C4F0&icon_color=F7C6D9&text_color=E6DCF5" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hannzo01&theme=dracula&hide_border=true&background=00000000&ring=D8C4F0&fire=F7C6D9&currStreakLabel=D8C4F0" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=Hannzo01&theme=dracula&hide_border=true&background=00000000&ring=D8C4F0&fire=F7C6D9&currStreakLabel=D8C4F0" height="165"/>
 
 </div>
 
