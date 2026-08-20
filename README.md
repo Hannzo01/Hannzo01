@@ -16,10 +16,6 @@
 
 </div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
-</p>
-
 ## 🎀 About Me
 
 ```
@@ -74,10 +70,6 @@
 ![TCP/IP](https://img.shields.io/badge/TCP%2FIP_%26_HTTP-D8C4F0?style=for-the-badge)
 
 </div>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
-</p>
 
 ## 🎀 Let's Connect
 
