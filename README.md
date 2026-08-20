@@ -79,55 +79,7 @@
   <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
 </p>
 
-## 🌷 Featured Projects
 
-<table align="center" width="100%">
-<tr>
-<td width="33%" valign="top">
-
-### 🌸 Campus Resource Booking System
-*Backend Developer*
-
-Node.js · Prisma ORM · PostgreSQL · REST API · HTTPS · Jest
-
-Designed a relational schema for users, resources, and bookings; built secure auth with hashed & salted passwords; enforced backend validation backed by Jest tests; secured all traffic over HTTPS.
-
-</td>
-<td width="33%" valign="top">
-
-### 🎀 Containerized Web Infrastructure
-*DevOps & Infrastructure*
-
-Docker · Docker Compose · NGINX · MariaDB · Bash
-
-Architected an 8-service container stack (NGINX, WordPress, MariaDB, Redis, FTP, Portainer, Adminer) with strict isolation policies and managed inter-service dependency ordering in a pure Linux environment.
-
-</td>
-<td width="33%" valign="top">
-
-### ✨ Internet Relay Chat Server
-*Systems & Networking*
-
-C++ · Sockets · TCP/IP · I/O Multiplexing (poll)
-
-Engineered a non-blocking, multi-client IRC server conforming to RFC standards, using I/O multiplexing for concurrent connections without multithreading, with defensive handling of malformed input.
-
-</td>
-</tr>
-</table>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
-</p>
-
-## ✨ GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Hannzo01&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000&title_color=D8C4F0&icon_color=F7C6D9&text_color=E6DCF5" height="165"/>
-<img src="https://streak-stats.demolab.com/?user=Hannzo01&theme=dracula&hide_border=true&background=00000000&ring=D8C4F0&fire=F7C6D9&currStreakLabel=D8C4F0" height="165"/>
-
-</div>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
