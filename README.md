@@ -1,8 +1,8 @@
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://media1.tenor.com/m/1uklp9zqO3oAAAAC/computer-typing.gif" width="380" alt="cute typing gif" />
 
-</div>
+</div> -->
 
 <div align="center">
 
